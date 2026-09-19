@@ -1,0 +1,27 @@
+=== Q1: YoY revenue growth & net loss trend ===
+brand | revenue_fy24 | revenue_fy25 | revenue_growth_yoy | net_loss_fy24 | net_loss_fy25 | ebitda_margin_fy25
+TIGC | 101.5 | 204.0 | 1.0099 | 5.0 | -23.0 | -0.0637
+Bewakoof | 160.9 | 173.0 | 0.0752 | -103.1 | -73.2 | -0.34
+Wrogn | 245.3 | 223.2 | -0.0901 | -56.8 | -75.5 | -0.275
+
+=== Q2: Portfolio 2x2 classification ===
+brand | revenue_growth_yoy | ebitda_margin_fy25 | quadrant
+TIGC | 1.0099 | -0.0637 | Scale
+Bewakoof | 0.0752 | -0.34 | Fix
+Wrogn | -0.0901 | -0.275 | Cut / Harvest
+
+=== Q3: Ad spend efficiency (revenue per incremental ad rupee) ===
+brand | incremental_ad_spend | incremental_revenue | revenue_per_incremental_ad_rupee
+Bewakoof | 1.7000000000000028 | 12.099999999999994 | 7.12
+Wrogn | 25.0 | -22.100000000000023 | -0.88
+
+=== Q4: Reallocation scenario (Wrogn -> TIGC) ===
+wrogn_reallocatable_spend_rs_cr | incremental_tigc_revenue_rs_cr | incremental_tigc_ebitda_rs_cr | wrogn_loss_avoided_rs_cr | net_portfolio_ebitda_improvement_rs_cr
+25.0 | 200.0 | -12.7 | 25.0 | 12.3
+
+=== Q5: TMRW consolidated trend ===
+period | revenue | ebitda_loss | ebitda_loss_pct_of_revenue
+Q1 FY25 | 85.0 | 39.0 | 0.4588
+Q1 FY26 | 197.0 | 63.0 | 0.3198
+Q2 FY25 | 175.0 | 38.0 | 0.2171
+
