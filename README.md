@@ -1,5 +1,7 @@
 # TMRW House of Brands — Portfolio Profitability Diagnostic (v2)
 
+TMRW's Wrogn brand loses revenue for every extra ad rupee spent (FY25) — but TMRW's group margin has since improved ~900bps. SQL + Excel + deck diagnosing which Aditya Birla D2C brands deserve capital, using company filings.
+
 A Business Analyst case study: which brands in Aditya Birla's TMRW House of Brands
 portfolio are worth scaling, and does TMRW's recent group-level recovery change
 the call on any of them?
